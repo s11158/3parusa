@@ -2,4 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://3parusa.ru/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <url><loc>https://3parusa.ru/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://3parusa.ru/turkey.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://3parusa.ru/greece.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://3parusa.ru/italy.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://3parusa.ru/croatia.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://3parusa.ru/ibiza.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://3parusa.ru/canary-islands.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://3parusa.ru/seychelles.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://3parusa.ru/thailand.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://3parusa.ru/caribbean.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
