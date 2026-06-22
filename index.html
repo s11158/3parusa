@@ -1654,13 +1654,14 @@ document.addEventListener('DOMContentLoaded',function(){
 </style>
 <script>(function(){function rm(){document.querySelectorAll('.t-tildalabel,.t-tildalabel__wrapper,#rec702009473,.t-records__copy').forEach(function(e){e.remove();});}
 document.addEventListener('DOMContentLoaded',rm);[400,1200,2500].forEach(function(t){setTimeout(rm,t);});})();</script>
-<style>/*MOBILE-POLISH*/
-#cookie-bar{padding:11px 14px!important;font-size:13px!important;line-height:1.4!important;max-width:560px!important}
-.fc-btn{width:62px!important;height:62px!important}
-@media(max-width:640px){.fc-btn{width:58px!important;height:58px!important}.float-contacts{right:14px!important}}
+<style>/*MOBILE-POLISH2*/
+.fc-btn{width:64px!important;height:64px!important}
+.fc-btn svg{width:34px!important;height:34px!important}
+@media(max-width:640px){
+  .fc-btn{width:60px!important;height:60px!important}
+  /* баннер не залезает на кнопки: освобождаем правый угол */
+  #cookie-bar{left:10px!important;right:88px!important;bottom:10px!important;padding:10px 12px!important;font-size:12.5px!important;line-height:1.35!important}
+  .float-contacts{right:14px!important;bottom:14px!important;gap:10px!important}
+}
 </style>
-<script>/*lift contacts above cookie bar*/(function(){function adj(){var b=document.getElementById('cookie-bar'),f=document.querySelector('.float-contacts');if(!f)return;if(b&&getComputedStyle(b).display!=='none'){f.style.bottom=(b.offsetHeight+24)+'px';}else{f.style.bottom='';}}
-document.addEventListener('DOMContentLoaded',function(){[300,900,1800].forEach(function(t){setTimeout(adj,t);});});
-window.addEventListener('resize',adj);
-document.addEventListener('click',function(e){if(e.target&&e.target.closest&&e.target.closest('#cookie-bar')){setTimeout(adj,120);}});})();</script>
 </body> </html>
