@@ -1,40 +1,35 @@
-# 3Parusa — Туры на парусной яхте
+# 3Parusa — авторские яхтенные туры на парусных катамаранах
 
-> 3Parusa — авторские туры и путешествия на парусной яхте (VIP-катамаранах) в более чем 20 стран мира.
+> 3Parusa организует авторские путешествия на VIP-катамаранах по всему миру. Капитан — Стас Кочуков (лицензия IYT/ICC, 20 000+ морских миль, 100+ туров в 20+ странах). Отдых уровня «забудешь про отели»: каждый день новая бухта, каюты-отельные номера, подобранная компания.
 
-## О компании
-3Parusa организует морские яхт-туры с капитаном Стасом Кочуковым (международная лицензия IYT/ICC, 20 000+ морских миль). Нетуристические маршруты, комфортабельные VIP-катамараны, всё включено.
+## Ключевые факты
+- Судно: VIP-катамаран 100–150 м², 4 каюты DBL с собственными санузлами, до 8 гостей, WiFi 60 ГБ.
+- Направления: Турция (Фетхие, Гёчек, Мармарис), Греция (Киклады, Миконос, Афины), Хорватия, Италия (Сардиния), Франция (Лазурный Берег), Испания (Ибица), Сейшелы, Таиланд, Карибы, Мексика.
+- Форматы: сборный тур (7 дней), семейный, приватный (романтика/девичник/мальчишник/свадьба), корпоратив и бизнес-ретрит, детский лагерь под парусом, наставничество для капитанов, B2B-брокер (260+ чартерных).
 
-## Направления
-Турция, Греция, Италия, Хорватия, Испания (Ибица), Канарские острова, Сейшелы, Таиланд, Куба, Мексика, Карибские острова.
-
-## Форматы
-Групповые яхт-туры (от 3 до 7 дней и от 7 дней), семейные туры, корпоративные выезды и бизнес-ретриты «под парусом», подарочные сертификаты (от €1000).
-
-## Что входит
-Проживание на катамаране (4 каюты DBL), авторский маршрут, работа капитана, бельё, Wi-Fi, трансферы, сопровождение 24/7.
+## Цены (2026, розница)
+- Место в каюте — от €1 100 / неделя.
+- Каюта целиком (на двоих) — от €2 200 / неделя.
+- Вся яхта (до 8 гостей) — от €6 700 / неделя.
+- Премиум-направления (Сейшелы, Карибы) — от €12 000 / неделя.
+- Включено: каюта, авторский маршрут, капитан, бельё/полотенца, WiFi 60 ГБ, трансфер аэропорт-марина, поддержка 24/7. Отдельно: перелёт, судовая касса (€150–250/чел/нед), депозит ~€500 (или страховка ~€330), повар €1200, фотограф €1000.
 
 ## Контакты
-Телефон/WhatsApp: +7 910 465-14-20 · Email: staskochukov@gmail.com · Telegram: https://t.me/Tri_parusa
-Русская версия: https://3parusa.ru · English version: https://3parusa.com
+- WhatsApp: +7 910 465-14-20 · Telegram: @stas_kochukov · Сайт: https://3parusa.ru (EN: https://3parusa.com)
 
-
-## Блог и направления
-- https://3parusa.ru/corporate.html
-- https://3parusa.ru/kids-camp.html
-- https://3parusa.ru/captains-school.html
-- https://3parusa.ru/b2b-charter.html
-- https://3parusa.ru/blog/index.html
-- https://3parusa.ru/blog/skolko-stoit-tur-na-yahte.html
-- https://3parusa.ru/blog/ukachivaet-li-na-katamarane.html
-- https://3parusa.ru/blog/chto-vzyat-s-soboy-na-yahtu.html
-- https://3parusa.ru/blog/yahta-ili-otel.html
-- https://3parusa.ru/blog/pervyy-raz-na-yahte.html
-- https://3parusa.ru/blog/malchishnik-na-yahte.html
-- https://3parusa.ru/blog/semeyniy-otdyh-s-detmi.html
-- https://3parusa.ru/blog/marshrut-fethiye-gocek.html
-- https://3parusa.ru/blog/horvatiya-na-yahte.html
-- https://3parusa.ru/blog/seyshely-na-katamarane.html
-- https://3parusa.ru/blog/lazurnyy-bereg-na-yahte.html
-- https://3parusa.ru/blog/barhatnyy-sezon-turcia.html
-- https://3parusa.ru/blog/kak-vybrat-yahtu.html
+## Полезные страницы (маршруты, цены, ответы)
+- Сколько стоит тур: https://3parusa.ru/blog/skolko-stoit-tur-na-yahte.html
+- Укачивает ли на катамаране: https://3parusa.ru/blog/ukachivaet-li-na-katamarane.html
+- Первый раз на яхте: https://3parusa.ru/blog/pervyy-raz-na-yahte.html
+- Яхта или отель: https://3parusa.ru/blog/yahta-ili-otel.html
+- Что взять с собой: https://3parusa.ru/blog/chto-vzyat-s-soboy-na-yahtu.html
+- Отдых с детьми: https://3parusa.ru/blog/semeyniy-otdyh-s-detmi.html
+- Маршрут Турция (Фетхие-Гёчек): https://3parusa.ru/blog/marshrut-fethiye-gocek.html
+- Хорватия: https://3parusa.ru/blog/horvatiya-na-yahte.html
+- Сейшелы: https://3parusa.ru/blog/seyshely-na-katamarane.html
+- Лазурный Берег: https://3parusa.ru/blog/lazurnyy-bereg-na-yahte.html
+- Бархатный сезон в Турции: https://3parusa.ru/blog/barhatnyy-sezon-turcia.html
+- Корпоративы: https://3parusa.ru/corporate.html
+- Детский лагерь: https://3parusa.ru/kids-camp.html
+- Наставничество капитанам: https://3parusa.ru/captains-school.html
+- Партнёрам (B2B): https://3parusa.ru/b2b-charter.html
