@@ -125,6 +125,19 @@
     if (Object.prototype.hasOwnProperty.call(DESTINATION_IMAGES, slug)) {
       return { kind: "destination", slug: slug, path: path };
     }
+    /* Сезонные мини-страницы вида turkey-may, greece-september, thailand-winter:
+       наследуют фото и оформление родительского направления. */
+    var seasonal = null;
+    Object.keys(DESTINATION_IMAGES).forEach(function (key) {
+      if (slug === key || slug.indexOf(key + "-") === 0) {
+        if (!seasonal || key.length > seasonal.length) {
+          seasonal = key;
+        }
+      }
+    });
+    if (seasonal) {
+      return { kind: "destination", slug: slug, path: path, parent: seasonal };
+    }
     if (Object.prototype.hasOwnProperty.call(OFFER_IMAGES, slug)) {
       return { kind: "offer", slug: slug, path: path };
     }
@@ -168,7 +181,7 @@
     ];
 
     if (info.kind === "destination") {
-      hero = DESTINATION_IMAGES[info.slug];
+      hero = DESTINATION_IMAGES[info.slug] || DESTINATION_IMAGES[info.parent];
     } else if (info.kind === "offer") {
       hero = OFFER_IMAGES[info.slug];
     } else if (info.kind === "faq") {
