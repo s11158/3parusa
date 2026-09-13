@@ -82,7 +82,7 @@
     { href: "/#rec662235809", label: "Программа" },
     { href: "/#rec695421651", label: "Стоимость" },
     { href: "/#rec662235811", label: "Флот" },
-    { href: "/#rec662235814", label: "Отзывы" },
+    { href: "/reviews.html", label: "Отзывы", current: "reviews" },
     { href: "/blog/", label: "Блог", current: "blog" },
     { href: "/faq.html", label: "FAQ", current: "faq" }
   ];
